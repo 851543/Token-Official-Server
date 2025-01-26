@@ -1,14 +1,20 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Response
 import logging
 
 logging.getLogger('matplotlib').setLevel(logging.WARNING)
 
 app = FastAPI()
 
+message_file = "data/message.json"
+
+import json
+
 
 @app.get("/token_official_message")
 async def token_official_message():
-    print("hell world")
+    with open(message_file, 'r', encoding='utf8') as fcc_file:
+        message = json.load(fcc_file)
+    return message
 
 
 if __name__ == '__main__':
