@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "platform": "qq",
+      "openid": "AB8A3885EBC0AD3383764404B246922B",
+      "user": {
+        "ret": 0,
+        "msg": "",
+        "is_lost": 0,
+        "nickname": "阿俊",
+        "gender": "男",
+        "gender_type": 2,
+        "province": "广东",
+        "city": "深圳",
+        "year": "1990",
+        "figureurl": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/40",
+        "figureurl_1": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/40",
+        "figureurl_2": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/100",
+        "figureurl_qq_1": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/40",
+        "figureurl_qq_2": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/100",
+        "figureurl_qq": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/0",
+        "is_yellow_vip": "0",
+        "vip": "0",
+        "yellow_vip_level": "0",
+        "level": "0",
+        "is_yellow_year_vip": "0"
+      }
+    }
+  ]
+}

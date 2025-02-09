@@ -1,87 +1,50 @@
 {
   "messages": [
     {
-      "id": 1,
       "userId": "official_001",
       "name": "Token团队",
-      "content": "欢迎来到Token留言板！",
-      "date": "2024-01-01",
+      "content": "大家好！",
+      "date": "2025-02-09",
       "avatar": "/src/assets/images/logo.png",
       "likes": 0,
       "platform": null,
       "isOfficial": true,
-      "tag": "公告"
+      "tag": "公告",
+      "id": 1739092580038
     },
     {
-      "id": 2,
-      "userId": "example_user",
-      "name": "示例用户",
-      "content": "Token项目非常棒！希望能有更多的教程和资源。",
-      "date": "2024-01-02",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1",
-      "likes": 5,
+      "userId": "AB8A3885EBC0AD3383764404B246922B",
+      "name": "阿俊",
+      "content": "留下猪脚",
+      "date": "2025-02-09",
+      "avatar": "http://thirdqq.qlogo.cn/ek_qqapp/AQUP4GBsXr7ia3XOG6tDCCuqufia3eqIsrliba8gpOQCc9AicmOj7HHOVP1icG8nacBAmOGF87qXB6KFcpxzHZKZO7lQUuBhicR53YWU3brUUE/100",
+      "likes": 0,
       "platform": "qq",
-      "isOfficial": false,
-      "tag": "建议"
-    },
-    {
-      "id": 3,
-      "userId": "official_001",
-      "name": "Token团队",
-      "content": "感谢支持！我们会继续努力提供更好的学习资源。",
-      "date": "2024-01-02",
-      "avatar": "/src/assets/images/logo.png",
-      "likes": 3,
-      "platform": null,
-      "isOfficial": true,
-      "tag": "公告"
-    },
-    {
-      "id": 4,
-      "userId": "user123",
-      "name": "学习者",
-      "content": "请问Token项目的学习路线是怎样的？",
-      "date": "2024-01-03",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2",
-      "likes": 2,
-      "platform": "wechat",
-      "isOfficial": false,
-      "tag": "问题"
-    },
-    {
-      "id": 5,
-      "userId": "official_001",
-      "name": "Token团队",
-      "content": "我们建议从基础开始，循序渐进。可以先看看我们的入门教程。",
-      "date": "2024-01-03",
-      "avatar": "/src/assets/images/logo.png",
-      "likes": 4,
-      "platform": null,
-      "isOfficial": true,
-      "tag": "公告"
+      "tag": "其他",
+      "id": 1739094872326
     }
   ],
   "tags": [
     {
       "name": "公告",
-      "count": 3
+      "count": 1
     },
     {
       "name": "建议",
-      "count": 1
+      "count": 0
     },
     {
       "name": "问题",
-      "count": 1
+      "count": 0
     },
     {
       "name": "其他",
-      "count": 0
+      "count": 1
     }
   ],
   "stats": {
-    "total": 5,
+    "total": 2,
     "today": 2,
-    "week": 5
+    "week": 2
   }
-} 
+}
