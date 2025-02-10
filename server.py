@@ -57,7 +57,7 @@ async def get_user_info(data: Dict[str, Any]):
             json.dump(accounts, f, ensure_ascii=False, indent=2)
         return user
 
-    return user
+    return data
 
 @app.post("/add_user")
 async def add_user(user_data: Dict[str, Any]):
